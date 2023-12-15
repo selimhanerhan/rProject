@@ -1,0 +1,4 @@
+installed libraries:
+google-api-client
+pyautogen
+langchain
