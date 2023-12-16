@@ -97,6 +97,7 @@ class VideoSearchAgent():
                 - (optional) additional extracted information.
         """
         try:
+    
             search_response = self.youtube.search().list(
                 part='snippet',
                 q=topic,
