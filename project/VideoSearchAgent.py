@@ -132,6 +132,3 @@ print(f"Found {len(videos)} videos: ")
 for video in videos:
     print(f"- {video['title']} ({video['link']})")
     
-
-
-    
